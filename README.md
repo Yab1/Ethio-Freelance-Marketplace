@@ -17,16 +17,16 @@ The proposed system is a centralized Freelance Marketplace which connects employ
 
 ### Screenshot
 
-![Landing_Page]()
-![Admin_Home_Page]()
-![Freelancer_Profile_Page]()
-![Employer_Profile_Page]()
-![Post_Services_Page]()
-![Apply_for_Project_Page]()
-![View_Projects_Page]()
-![View_project_Applicants_Page]()
-![View_Services_Page]()
-![View_Available_Projects_Page]()
+![Landing_Page](screenshots/Landing_Page.jpg)
+![Admin_Home_Page](screenshots/Admin_Home_Page.jpg)
+![Freelancer_Profile_Page](screenshots/Freelancer_Profile_Page.jpg)
+![Employer_Profile_Page](screenshots/Employer_Profile_Page.jpg)
+![Post_Services_Page](screenshots/Post_Services_Page.png)
+![Apply_for_Project_Page](screenshots/Apply_for_Project_Page.png)
+![View_Projects_Page](screenshots/View_Projects_Page.png)
+![View_project_Applicants_Page](screenshots/View_project_Applicants_Page.png)
+![View_Services_Page](screenshots/View_Services_Page.png)
+![View_Available_Projects_Page](screenshots/View_Available_Projects_Page.png)
 
 ### Links
 
