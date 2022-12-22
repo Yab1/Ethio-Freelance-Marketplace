@@ -1,0 +1,22 @@
+.btn_round {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.btn_round:hover {
+    color: #fff;
+    background: red;
+    border: 1px solid #6b4acc;
+}
+
+.btn_content_outer {
+    display: inline-block;
+    width: 85%;
+}
