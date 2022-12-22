@@ -30,7 +30,7 @@ The proposed system is a centralized Freelance Marketplace which connects employ
 
 ### Links
 
-- Solution URL: (https://github.com/Yab1/news-homepage)
+- Solution URL: (https://github.com/Yab1/Ethio-Freelance-Marketplace)
 - Documentation: (https://docs.google.com/document/d/1MCV5CR7VZUrKlUu4WpAYW28AX8t6cklNuxXPW0wOboM/edit?usp=sharing)
 
 ### Built with
