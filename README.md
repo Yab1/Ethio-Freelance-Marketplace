@@ -44,4 +44,4 @@ The proposed system is a centralized Freelance Marketplace which connects employ
 
 - [@Yab1](https://github.com/Yab1)
 - [@Robel43](https://github.com/Robel43)
-- [@]()
+- [@jojo2172](https://github.com/jojo2172)
