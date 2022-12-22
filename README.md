@@ -17,8 +17,9 @@ The proposed system is a centralized Freelance Marketplace which connects employ
 
 ### Screenshot
 
-![Landing Page](img/Landing Page.jpg)
-![Admin Home Page](img/Admin Home Page.jpg)
+![](./screenshot.jpg)
+![](./screenshot.jpg)[Landing Page](img/Landing Page.jpg)
+![](./screenshot.jpg)[Admin Home Page](img/Admin Home Page.jpg)
 ![Freelancer Profile Page](img/Freelancer Profile Page.jpg)
 ![Employer Profile Page](img/Employer Profile Page.jpg)
 ![Post Services Page](img/Post Services Page.png)
